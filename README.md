@@ -15,5 +15,5 @@ Package content:
 	- Inversed Xor double door
 	- And double door
 	
-You may try those door via downloading the level "" in the workshop of Human Fall Flat before downloading this package.
+You may try those door via downloading the level "DoorControllers" in the workshop of Human Fall Flat before downloading this package.
 	
